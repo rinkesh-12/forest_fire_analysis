@@ -1,4 +1,5 @@
-Forest Fire Data Analysis
+# Forest Fire Data Analysis
+
 📌 Overview
 This project analyzes the Forest Fires dataset to identify patterns, trends, and possible factors influencing fire occurrences and severity.
 The dataset contains meteorological and environmental attributes, allowing us to explore relationships between variables and create visualizations to understand the data better.
