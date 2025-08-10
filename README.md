@@ -1,10 +1,12 @@
 # Forest Fire Data Analysis
 
-📌 Overview
+### 📌 Overview
+
 This project analyzes the Forest Fires dataset to identify patterns, trends, and possible factors influencing fire occurrences and severity.
 The dataset contains meteorological and environmental attributes, allowing us to explore relationships between variables and create visualizations to understand the data better.
 
-📂 Dataset
+### 📂 Dataset
+
 The dataset contains information such as:
 
 Month & Day — Time period of the fire occurrence.
@@ -15,7 +17,8 @@ FFMC, DMC, DC, ISI — Fire Weather Index system components.
 
 Burned Area — Hectares burned due to forest fire.
 
-🔍 Objectives
+### 🔍 Objectives
+
 Perform data cleaning and preprocessing.
 
 Conduct exploratory data analysis (EDA) using visualizations.
@@ -26,7 +29,8 @@ Analyze correlation between meteorological conditions and burned area.
 
 Present findings through plots and statistical summaries.
 
-🛠 Technologies Used
+### 🛠 Technologies Used
+
 Python
 
 Jupyter Notebook
@@ -37,7 +41,7 @@ NumPy — Numerical computations
 
 Matplotlib & Seaborn — Data visualization
 
-📊 Analysis & Steps
+### 📊 Analysis & Steps
 Load the dataset into a Pandas DataFrame.
 
 Data Preprocessing:
@@ -66,14 +70,14 @@ Bar charts, line graphs, scatter plots.
 
 Heatmaps showing correlations between variables.
 
-📌 Key Findings
+### 📌 Key Findings
 Most forest fires occur in August and September.
 
 High temperature, low humidity, and low rainfall are common during major fire events.
 
 The DC and ISI indices are strongly correlated with the burned area.
 
-🚀 How to Run the Project
+### 🚀 How to Run the Project
 1. Clone this repository:
     git clone https://github.com/yourusername/forest-fire-analysis.git
 2. Install dependencies:
